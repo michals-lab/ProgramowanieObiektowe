@@ -1,4 +1,4 @@
-package pl.edu.po.cw_01;
+package pl.edu.uwm.po.cw00;
 
 public class Start {
     public static void main(String[] args){
