@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Zad1 {
 
-    /*Scanner k = new Scanner(System.in);
+    Scanner k = new Scanner(System.in);
     int n;
 
     System.out.println("Podaj liczbę");
@@ -21,6 +21,6 @@ public class Zad1 {
     int [] tablica = new int[n];
     System.out.println(tablica.lenght);
     System.out.format("Tablica składa się z %d elementów\n", tablica.length);
-*/
+
 
 }
