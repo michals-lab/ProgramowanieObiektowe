@@ -17,7 +17,11 @@ public class Main {
 		for(int zm:Zad1.where(str,substr)){ System.out.print(zm+" "); }
 		System.out.println();
 		System.out.println("Zmiana wielkosci liter, napisu "+str+" to: "+Zad1.change(str));
-
-
+		System.out.println(Zad1.nice(str));
+		System.out.println(Zad1.nice(str, '>', 2));
+		Zad2 z2 = new Zad2("plik.txt",'o');
+		Zad3 z3 = new Zad3("plik.txt","dlugi");
+		Zad4 z4 = new Zad4(8);
+		Zad5 z5 = new Zad5(10000, 3, 5);
     }
 }

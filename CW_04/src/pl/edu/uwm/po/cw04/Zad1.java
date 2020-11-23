@@ -60,9 +60,40 @@ public class Zad1 {
         return cha.toString();
     }
 //****************************  G
-
+    public static String nice(String str){
+        StringBuffer ni= new StringBuffer();
+        int tmp=0;
+        int len=str.length();
+        for(int i=(len-1); i>=0; i--){
+            ni.append(str.charAt(i));
+            if(tmp%3==0 && i!=0) ni.append("'");
+            tmp++;
+        }
+        String temp = ni.toString();
+        ni=new StringBuffer();
+        int leng=temp.length();
+        for(int i=(leng-1); i>=0; i--){
+            ni.append(temp.charAt(i));
+        }
+        return ni.toString();
+    }
 //****************************  H
-
-
+    public static String nice(String str, char zn, int n){
+        StringBuffer ni= new StringBuffer();
+        int tmp=0;
+        int len=str.length();
+        for(int i=(len-1); i>=0; i--){
+            ni.append(str.charAt(i));
+            if(tmp%n == 0) ni.append(zn);
+            tmp++;
+        }
+        String temp = ni.toString();
+        ni=new StringBuffer();
+        int leng=temp.length();
+        for(int i=(leng-1); i>=0; i--){
+            ni.append(temp.charAt(i));
+        }
+        return ni.toString();
+    }
 
 }
