@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d63a1125-15b9-4f33-ba5e-1626bd58db92" name="Default Changelist" comment="" />
+    <list default="true" id="71ea538b-5b5f-4d96-bfdf-6e75161d71c8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,70 +17,63 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1k4IfpWz8Y5hIH7WCJwvsjkt3bh" />
+  <component name="ProjectId" id="1l0aBhNFdEtey2MLIKySIw4BFWV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-  </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="pl.edu.uwm.po.cw05.Main" />
       <module name="CW_05" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d63a1125-15b9-4f33-ba5e-1626bd58db92" name="Default Changelist" comment="" />
-      <created>1604953547588</created>
+      <changelist id="71ea538b-5b5f-4d96-bfdf-6e75161d71c8" name="Default Changelist" comment="" />
+      <created>1606736332090</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1604953547588</updated>
+      <updated>1606736332090</updated>
     </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="WindowStateProjectService">
-    <state x="206" y="276" width="1099" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604954106277">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1920" y="58" width="1099" height="735" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606736693713">
+      <screen x="-1920" y="-112" width="1920" height="1040" />
     </state>
-    <state x="206" y="276" width="1099" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.112.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604954106277" />
-    <state x="623" y="276" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604954078902">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1920" y="58" width="1099" height="735" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1606736693713" />
+    <state x="-1707" y="167" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606736691507">
+      <screen x="-1920" y="-112" width="1920" height="1040" />
     </state>
-    <state x="623" y="276" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.112.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604954078902" />
-    <state width="1869" height="268" key="GridCell.Tab.0.bottom" timestamp="1604954592917">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1707" y="167" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1606736691507" />
+    <state width="906" height="268" key="GridCell.Tab.0.bottom" timestamp="1606738715766">
+      <screen x="-1920" y="-112" width="1920" height="1040" />
     </state>
-    <state width="1869" height="268" key="GridCell.Tab.0.bottom/1920.112.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604954592917" />
-    <state width="1869" height="268" key="GridCell.Tab.0.center" timestamp="1604954592916">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="906" height="268" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1606738715766" />
+    <state width="906" height="268" key="GridCell.Tab.0.center" timestamp="1606738715766">
+      <screen x="-1920" y="-112" width="1920" height="1040" />
     </state>
-    <state width="1869" height="268" key="GridCell.Tab.0.center/1920.112.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604954592916" />
-    <state width="1869" height="268" key="GridCell.Tab.0.left" timestamp="1604954592916">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="906" height="268" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1606738715766" />
+    <state width="906" height="268" key="GridCell.Tab.0.left" timestamp="1606738715766">
+      <screen x="-1920" y="-112" width="1920" height="1040" />
     </state>
-    <state width="1869" height="268" key="GridCell.Tab.0.left/1920.112.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604954592916" />
-    <state width="1869" height="268" key="GridCell.Tab.0.right" timestamp="1604954592916">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="906" height="268" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1606738715766" />
+    <state width="906" height="268" key="GridCell.Tab.0.right" timestamp="1606738715766">
+      <screen x="-1920" y="-112" width="1920" height="1040" />
     </state>
-    <state width="1869" height="268" key="GridCell.Tab.0.right/1920.112.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604954592916" />
+    <state width="906" height="268" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1606738715766" />
   </component>
 </project>
