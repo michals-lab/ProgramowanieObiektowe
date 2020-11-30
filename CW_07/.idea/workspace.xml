@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b8ca4c7-00a4-4eba-b7ed-7f6316d67475" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1l0x681OV8E9RpRcmKZhkszNhjM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="pl.michaljd.stolarczyk.Main" />
+      <module name="CW_07" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b8ca4c7-00a4-4eba-b7ed-7f6316d67475" name="Default Changelist" comment="" />
+      <created>1606747634195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606747634195</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1920" y="55" width="1099" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606750779797">
+      <screen x="-1920" y="-112" width="1920" height="1040" />
+    </state>
+    <state x="-1920" y="55" width="1099" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1606750779797" />
+    <state x="-1437" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1606752811293">
+      <screen x="-1920" y="-112" width="1920" height="1040" />
+    </state>
+    <state x="-1437" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1606752811293" />
+    <state x="-1707" y="164" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606750778200">
+      <screen x="-1920" y="-112" width="1920" height="1040" />
+    </state>
+    <state x="-1707" y="164" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1606750778200" />
+    <state width="906" height="268" key="GridCell.Tab.0.bottom" timestamp="1606754596169">
+      <screen x="-1920" y="-112" width="1920" height="1040" />
+    </state>
+    <state width="906" height="268" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1606754596169" />
+    <state width="906" height="268" key="GridCell.Tab.0.center" timestamp="1606754596168">
+      <screen x="-1920" y="-112" width="1920" height="1040" />
+    </state>
+    <state width="906" height="268" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1606754596168" />
+    <state width="906" height="268" key="GridCell.Tab.0.left" timestamp="1606754596168">
+      <screen x="-1920" y="-112" width="1920" height="1040" />
+    </state>
+    <state width="906" height="268" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1606754596168" />
+    <state width="906" height="268" key="GridCell.Tab.0.right" timestamp="1606754596168">
+      <screen x="-1920" y="-112" width="1920" height="1040" />
+    </state>
+    <state width="906" height="268" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1606754596168" />
+  </component>
+</project>
