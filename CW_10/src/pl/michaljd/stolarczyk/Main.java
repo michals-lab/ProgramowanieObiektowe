@@ -52,9 +52,10 @@ public class Main {
                 }
                 scan.close();
             } catch (FileNotFoundException e) {
+                System.out.println("Test czy widzi plik");
                 e.printStackTrace();
             }
-            System.out.println(Zad3);
+            System.out.println("Tekst TEST"+Zad3);
             Collections.sort(Zad3);
             System.out.println(Zad3);
         }
