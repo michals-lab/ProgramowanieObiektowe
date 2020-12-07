@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4257aec-7358-4aeb-9dea-0f17eb8a1f35" name="Default Changelist" comment="" />
+    <list default="true" id="46c0b0eb-d382-479e-9b46-b9f9ee372517" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1lK98VkpUXTwO1fgXYCfFAN94lJ" />
+  <component name="ProjectId" id="1lKKdj0fktUt6O5QZ6MOrokHOle" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,8 +43,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="pl.michaljd.stolarczyk.TestInstrumenty" />
-      <module name="CW_08" />
+      <option name="MAIN_CLASS_NAME" value="pl.michaljd.stolarczyk.Main" />
+      <module name="CW_10" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -60,11 +60,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c4257aec-7358-4aeb-9dea-0f17eb8a1f35" name="Default Changelist" comment="" />
-      <created>1607334759390</created>
+      <changelist id="46c0b0eb-d382-479e-9b46-b9f9ee372517" name="Default Changelist" comment="" />
+      <created>1607340433756</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1607334759390</updated>
+      <updated>1607340433756</updated>
     </task>
     <servers />
   </component>
@@ -78,44 +78,35 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1510" y="55" width="1099" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607340042624">
+    <state x="-1920" y="58" width="1099" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607341028594">
       <screen x="-1920" y="-112" width="1920" height="1040" />
     </state>
-    <state x="-1510" y="55" width="1099" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1607340042624" />
-    <state x="-722" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1607340331851">
+    <state x="-1920" y="58" width="1099" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1607341028594" />
+    <state x="-1682" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1607342505418">
       <screen x="-1920" y="-112" width="1920" height="1040" />
     </state>
-    <state x="-722" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1607340331851" />
-    <state x="-1297" y="164" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1607340041074">
+    <state x="-1682" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1607342505418" />
+    <state x="-1707" y="167" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1607341026324">
       <screen x="-1920" y="-112" width="1920" height="1040" />
     </state>
-    <state x="-1297" y="164" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1607340041074" />
-    <state x="-1233" y="89" key="FileChooserDialogImpl" timestamp="1607340429874">
+    <state x="-1707" y="167" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1607341026324" />
+    <state width="906" height="268" key="GridCell.Tab.0.bottom" timestamp="1607343871928">
       <screen x="-1920" y="-112" width="1920" height="1040" />
     </state>
-    <state x="-1233" y="89" key="FileChooserDialogImpl/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1607340429874" />
-    <state width="906" height="268" key="GridCell.Tab.0.bottom" timestamp="1607340097343">
+    <state width="906" height="268" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1607343871928" />
+    <state width="906" height="268" key="GridCell.Tab.0.center" timestamp="1607343871927">
       <screen x="-1920" y="-112" width="1920" height="1040" />
     </state>
-    <state width="906" height="268" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1607340097343" />
-    <state width="906" height="268" key="GridCell.Tab.0.center" timestamp="1607340097343">
+    <state width="906" height="268" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1607343871927" />
+    <state width="906" height="268" key="GridCell.Tab.0.left" timestamp="1607343871927">
       <screen x="-1920" y="-112" width="1920" height="1040" />
     </state>
-    <state width="906" height="268" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1607340097343" />
-    <state width="906" height="268" key="GridCell.Tab.0.left" timestamp="1607340097343">
+    <state width="906" height="268" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1607343871927" />
+    <state width="906" height="268" key="GridCell.Tab.0.right" timestamp="1607343871927">
       <screen x="-1920" y="-112" width="1920" height="1040" />
     </state>
-    <state width="906" height="268" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1607340097343" />
-    <state width="906" height="268" key="GridCell.Tab.0.right" timestamp="1607340097343">
-      <screen x="-1920" y="-112" width="1920" height="1040" />
-    </state>
-    <state width="906" height="268" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1607340097343" />
-    <state x="-1642" y="-59" key="new project wizard" timestamp="1607340431651">
-      <screen x="-1920" y="-112" width="1920" height="1040" />
-    </state>
-    <state x="-1642" y="-59" key="new project wizard/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1607340431651" />
+    <state width="906" height="268" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-112.1920.1040@-1920.-112.1920.1040" timestamp="1607343871927" />
   </component>
 </project>
