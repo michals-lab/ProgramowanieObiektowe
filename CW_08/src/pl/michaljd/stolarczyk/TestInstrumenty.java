@@ -8,7 +8,7 @@ public class TestInstrumenty {
         ArrayList<Instrument> orkiestra = new ArrayList<>();
         orkiestra.add(new Fortepian("Nie znam się na fortepianach", LocalDate.of(1234,4,12)));
         orkiestra.add(new Skrzypce("Na skrzypcach też", LocalDate.of(1360,7,1)));
-        orkiestra.add(new Flet("Również ;)", LocalDate.of(1322,12,1)));
+        orkiestra.add(new Flet("Dowolny ;)", LocalDate.of(1322,12,1)));
         for(Instrument tmp: orkiestra){
             System.out.print(tmp.dzwiek()+" ");
             System.out.println(tmp);
