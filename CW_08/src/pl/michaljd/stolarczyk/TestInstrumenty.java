@@ -13,5 +13,8 @@ public class TestInstrumenty {
             System.out.print(tmp.dzwiek()+" ");
             System.out.println(tmp);
         }
+        System.out.println(orkiestra.get(1).equals(orkiestra.get(2)));
+        System.out.println(orkiestra.get(0).getProducent());
+        System.out.println(orkiestra.get(0).getRokProdukcji());
     }
 }
